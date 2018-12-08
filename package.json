@@ -1,0 +1,22 @@
+{
+  "name": "react-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WenChaoGit/react-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WenChaoGit/react-webapp/issues"
+  },
+  "homepage": "https://github.com/WenChaoGit/react-webapp#readme",
+  "dependencies": {
+    "webpack": "^4.3.0"
+  }
+}
